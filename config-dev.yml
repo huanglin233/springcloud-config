@@ -1,1 +1,2 @@
-info: hello i am config dev
+config:
+  info: hello i am config dev
